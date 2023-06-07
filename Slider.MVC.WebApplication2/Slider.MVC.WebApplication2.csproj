@@ -137,6 +137,8 @@
     <Content Include="Content\Site.css" />
     <Content Include="IMG\1.png" />
     <Content Include="IMG\2.png" />
+    <Content Include="_IMG\1.png" />
+    <Content Include="_IMG\2.png" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
@@ -167,6 +169,7 @@
     <Content Include="Views\Shared\_Slider.cshtml" />
     <Content Include="Views\Shared\_MenuBar.cshtml" />
     <Content Include="Views\Shared\_Slider2.cshtml" />
+    <Content Include="Views\Shared\_Slider3.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
